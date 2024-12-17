@@ -2,13 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>For unit test only</title>
-        <item>
-            <maintenance>
-                <maintenanceTimeString>
-                    30 minutes
-                </maintenanceTimeString>
-            </maintenance>
-        </item>
+        
         <item>
             <title>Version 2.0</title>
             <description>desc Версия</description>
